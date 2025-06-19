@@ -1,4 +1,3 @@
-
 # 🖌️ Flask Drawing App with Model Predictions
 
 This Flask application allows users to draw digits on a canvas in their browser and receive real-time predictions from a machine learning model.
@@ -30,8 +29,9 @@ This Flask application allows users to draw digits on a canvas in their browser 
    ```bash
    git clone https://github.com/yourusername/digitRecogniser.git
    cd digitRecogniser
-````
 
+
+   ```
 2. Install the dependencies:
 
    ```bash
@@ -96,12 +96,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Created by [Lakshya Kesarwani](https://github.com/Lakshya-kesarwani)**
-
-```
-
----
-
-Let me know if you also want:
-- **Deployment instructions** for platforms like Railway or Render.
-- A **badge-based header** (Python version, Flask version, etc.).
-- README with **screenshots or demo GIF** support.
