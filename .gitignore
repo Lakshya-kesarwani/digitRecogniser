@@ -1,0 +1,8 @@
+index2.html
+app.py
+model.joblib
+scaler.pkl
+your_model.joblib
+f.py
+Dockerfile
+.dockerignore
